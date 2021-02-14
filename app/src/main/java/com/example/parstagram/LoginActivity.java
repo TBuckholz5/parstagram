@@ -15,18 +15,6 @@ import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseUser;
 
-import org.apache.commons.io.FileUtils;
-
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.lang.reflect.Array;
-import java.nio.charset.Charset;
-import java.util.ArrayList;
-import java.util.List;
-
 public class LoginActivity extends AppCompatActivity {
 
     public static final String TAG = "LoginActivity";
