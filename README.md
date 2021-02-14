@@ -1,26 +1,28 @@
-# Project 3 - *parstagram*
+# Project 3 - *Name of App Here*
 
-**parstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **4** hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [x] User can sign up to create a new account using Parse authentication.
-- [x] User can log in and log out of his or her account.
-- [x] User can take a photo, add a caption, and post it to "Instagram".
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
+The following **optional** features are implemented:
+
+- [x] User can load more posts once he or she reaches the bottom of the feed using infinite scrolling.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 
 ## Open-source libraries used
 
